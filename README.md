@@ -7,3 +7,5 @@ a console-based bank management system built in C++ using object-oriented progra
 - **Transactions:** Deposits, withdrawals, and transfers between client accounts.
 - **Currency Exchange:** Converting currencies based on exchange rates.
 - **Logging:** Transaction logs and user login records for tracking actions.
+
+This application is designed for easy navigation via a set of interactive screens, making it simple for users to carry out operations in a text-based interface. The data is stored in text files, making it easy to modify and track clients, users, transactions, and currency information.
